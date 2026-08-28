@@ -1,4 +1,4 @@
-# Ex-10-B-GAS LEAK DETECTION SYSTEM USING GAS SENSOR
+# Ex-9-GAS LEAK DETECTION SYSTEM USING GAS SENSOR
 
 ## Aim:
 To measure the air quality using Gas Sensor  MQ-2 with Arduino UNO Board/ESP-32 using Tinker CAD.
